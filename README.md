@@ -1,2 +1,2 @@
 # pythonassignment
-Python Assignment First semester SecB
+Lab_2
